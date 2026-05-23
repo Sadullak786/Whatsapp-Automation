@@ -1,0 +1,24 @@
+Date: 23/5/2026
+Time: 14:17
+Phone Number: +917970836122
+Image: C:\Users\Sadulla khan\OneDrive\Desktop\Whatsapp-automation\screenshot_Ali Reza.png
+Caption: Screenshot of Google Homepage
+--------------------
+Date: 23/5/2026
+Time: 14:17
+Phone Number: +919135756968
+Image: C:\Users\Sadulla khan\OneDrive\Desktop\Whatsapp-automation\screenshot_Sadulla.png
+Caption: Screenshot of GitHub Homepage
+--------------------
+Date: 23/5/2026
+Time: 14:20
+Phone Number: +917970836122
+Image: C:\Users\Sadulla khan\OneDrive\Desktop\Whatsapp-automation\screenshot_Ali Reza.png
+Caption: Screenshot of Google Homepage
+--------------------
+Date: 23/5/2026
+Time: 14:21
+Phone Number: +919135756968
+Image: C:\Users\Sadulla khan\OneDrive\Desktop\Whatsapp-automation\screenshot_Sadulla.png
+Caption: Screenshot of GitHub Homepage
+--------------------
